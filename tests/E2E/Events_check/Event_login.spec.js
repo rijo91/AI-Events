@@ -40,6 +40,16 @@ test.describe.serial('Login page tests', () => {
 
     });
 
+    test('TC_05 : Verify the Rest password functionality', async ({ page }) =>
+    {
+
+
+    });
+    test('TC_04 : Verify the forgot password functionality', async ({ page }) =>
+    {
+
+
+    });
 
 
 }
